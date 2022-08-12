@@ -174,16 +174,20 @@ nav a {
     font-weight: 700;
   }
   
-  .nunito-sans {
+  .robot-condensed {
     font-family: 'Nunito Sans', sans-serif;
   }
+
+  .raleway{
+  font-family: 'Raleway', sans-serif;
+  }
   
-  .source-code-pro {
+  .ubuntu {
     font-family: 'Source Code Pro', monospace;
   }
   
-  .poppins {
-    font-family: 'Poppins', sans-serif;
+  .kanit {
+    font-family: 'Kanit', sans-serif;
   }
 
   .tomorrow {
